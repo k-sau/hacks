@@ -11,4 +11,5 @@ It have following filter:
 ### Usage
 
 ``go run main.go -p path/to/amass/result -ip``
+
 ``go run main.go -host -p verizon/mobile.example.com.json | httprobe -p xlarge``
